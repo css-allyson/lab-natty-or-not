@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Clip de música artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia do projeto é criar um clip de música totalmente artificial, desde a letra até o vídeo.
 
 ## 🤖 Tecnologias Utilizadas
 - Chat GPT
