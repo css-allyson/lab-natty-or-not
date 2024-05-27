@@ -14,3 +14,6 @@ O processo de criação iniciou no chat GPT onde expliquei solicitei a criação
 ## 🚀 Resultados
 Destaca-se do resultado alcançado o audio obtido, o qual foi um produto que me surpreendeu. O texto da música foi genérico e serviu ao seu propósito. Percebe-se que o vídeo não ficou totalmente sincronizado com o audio, em alguns momentos onde só há melodia o avatar chega a abrir a boca
 
+## Link do projeto
+https://drive.google.com/file/d/1CAqEC2KlCl6hYDiB_sSewVTkM1YDo8G_/view?usp=sharing
+
